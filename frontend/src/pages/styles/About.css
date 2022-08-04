@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    width: 100%;
+}
+
+.container .box {
+    margin-left: 22vw;
+    width: 100%;
+
+}
+  
